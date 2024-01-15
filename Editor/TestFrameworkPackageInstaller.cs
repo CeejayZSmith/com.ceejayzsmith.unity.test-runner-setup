@@ -69,7 +69,6 @@ namespace CeejayZSmith.TestRunnerSetup.Editor
                 }
             }
             
-            Debug.LogError("Error while listing packages.");
             return false;
         }
     
